@@ -1,7 +1,7 @@
 # pr10-11
 ## Пояснення
 
-**fork_write.c**[Код](https://github.com/VladHume/pr10-11/blob/main/fork_write.c) — програма на C, яка:
+[**fork_write.c**](https://github.com/VladHume/pr10-11/blob/main/fork_write.c) — програма на C, яка:
 - Створює файл `output.txt`
 - Виконує `fork()` для створення нового процесу
 - Записує повідомлення у файл з обох процесів
